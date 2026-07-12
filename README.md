@@ -1,2 +1,2 @@
 # links to my stuff:
-# MODRINTH: https://modrinth.com/user/wowwow27
+# MODRINTH: <a href="https://modrinth.com/user/wowwow27">Modrinth</a>
